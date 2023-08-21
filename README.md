@@ -15,8 +15,7 @@ Crime related topics have always intrigued me to a certain extent so seeing the 
 
 ## **Design Choices**
 
-- **What design choices were made**
-- **Why were these choices made?**
+**What design choices were made and why were these choices made?**
 
 - The most important design choice that I had to make was the data type of each US State - an Enumeration or a string. At first I thought a string would be a better idea since it was less complicated however, I thought the enumeration could provide more clarity of what the data was. When writing my out my functions I realized that it would make sense for the states to be a "one of" because it more the code simpler to understand (even if there were 50 different cases).
 Another important choice was to make sure that my crime rate functions didn't divide total property crime by zero enrollments. When dividing by zero, python gave a long error message of "not divisible by zero". To make this issue doesn't happen I also had to include an if condition in my rate function, if total enrollment is zero, automatically return zero as the rate.
