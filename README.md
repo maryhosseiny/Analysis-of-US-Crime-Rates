@@ -3,7 +3,7 @@
 ## **Overview**
 - **What problem is being solved?**
   
-I was trying to find the property crime rate of all the schools together in each State of the US. I wanted to visually see and compare the different crime rates of US States together. 
+I was trying to find the property crime rate of all the schools together in each State of the US. I wanted to visualize and compare the different crime rates of US States together. 
 
 - **Where is the information from?**
   
