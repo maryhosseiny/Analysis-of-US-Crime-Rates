@@ -1,4 +1,4 @@
-# CPSC103-Final-Project
+# Analysis of US Crime Rates
 
 ## **Overview**
 - **What problem is being solved?**
